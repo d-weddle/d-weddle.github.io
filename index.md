@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/d-weddle/d-weddle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a senior at Old Dominion University with a major in applied mathematics and a minor in computer science. I'm excited to have the opportunity to take an introductory data science and analytics course at the master's level (CS 620) this semester! Options after graduation include data science, national security work, and 1-2 year teaching fellowships.
 
 ### Markdown
 
